@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[ Baekyon's(https://github.com/baekyeon9/baekyeon9.github.io/blob/main/intro.md) ]  coding page!
+[ Baekyon's](https://github.com/baekyeon9/baekyeon9.github.io/blob/main/intro.md) coding page!
 
 You can use the [editor on GitHub](https://github.com/baekyeon9/baekyeon9.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
